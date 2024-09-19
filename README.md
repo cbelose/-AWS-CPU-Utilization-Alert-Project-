@@ -1,12 +1,12 @@
 **>>>>>>>>>>>>>>>>>AWS CPU Utilization Alert Project<<<<<<<<<<<<<<<<<**
 
-**Table of Contents**
+                  **Table of Contents**
 
-**Overview**
+                     **Overview**
 
-**Prerequisites**
+                  **Prerequisites**
 
-**Architecture**
+                  **Architecture**
 
 ![AWS Architecture Diagram](https://github.com/user-attachments/assets/5744ccb2-d54e-47ea-8b29-ef54b507da5d)
 
