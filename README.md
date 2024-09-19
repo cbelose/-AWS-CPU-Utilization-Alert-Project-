@@ -1,9 +1,15 @@
 **>>>>>>>>>>>>>>>>>AWS CPU Utilization Alert Project<<<<<<<<<<<<<<<<<**
+
 **Table of Contents**
+
 **Overview**
+
 **Prerequisites**
+
 **Architecture**
+
 ![AWS Architecture Diagram](https://github.com/user-attachments/assets/5744ccb2-d54e-47ea-8b29-ef54b507da5d)
+
 **Steps to Create the Project**
 Step 1: Set up EC2 Instance
 Step 2: Set Up AWS CloudWatch Alarms
