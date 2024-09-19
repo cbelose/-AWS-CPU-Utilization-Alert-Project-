@@ -20,8 +20,11 @@ Table of Contents
 
 **Steps to Create the Project**
 Step 1: Set up EC2 Instance
+
 Step 2: Set Up AWS CloudWatch Alarms
+
 Step 3: Send Email Notification Using SNS
+
 **AWS Services Used**
 **Future Enhancements**
 Conclusion 
