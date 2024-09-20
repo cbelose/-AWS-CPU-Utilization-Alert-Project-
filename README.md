@@ -1,6 +1,6 @@
 # AWS CPU Utilization Alert Project #
 
-## Overview
+# Overview
 This project demonstrates how to set up an automated alert system for monitoring CPU utilization on an **AWS EC2** instance using **AWS CloudWatch** and **AWS SNS (Simple Notification Service)**. 
 The system sends email notifications when CPU utilization exceeds a specified threshold, enabling teams to take immediate action to prevent system strain or potential failure.
 
