@@ -21,11 +21,10 @@ The system sends email notifications when CPU utilization exceeds a specified th
 
    3. **SNS:** Sends an email notification to the subscribed users when the CloudWatch alarm is triggered.
 
-
+# AWS Architecture Diagram
 # ![AWS Architecture Diagram.gif](https://github.com/cbelose/-AWS-CPU-Utilization-Alert-Project-/blob/2ed71af34bf113dbb834efa4c499d6e756d32790/AWS%20Architecture%20Diagram.gif)
 
 ## Workflow:
-
 CPU Utilization crosses the defined threshold.
 CloudWatch triggers an alarm.
 The alarm notifies an SNS Topic.
